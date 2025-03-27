@@ -1,6 +1,6 @@
-//Danila QYuroz Cruz
+//Daniela Quiroz Cruz
 
-Stdio.h
+#include <stdio.h>
 int
 int main ()
 {
